@@ -1,0 +1,15 @@
+git init: Initializes a new Git repository in the current directory.
+git clone[repository Url]: Creates a copy of a remote repository on your local machine.
+git add[file]: Add changes in a file to the staging area, preparing them for next commit.
+git commit -m "[commit-message]: Commit the changes in the staging area to the local reporsitory with descriptive message.
+git status: Displays the status of changes as untracked, modified or staged.
+git pull: Fetches changes from a remote repository and merges them into the current branch.
+git push: Sends local commits to a remote repository.
+git branch: List all branches in the repository.
+git merge[branch_name]: Merges changes from the specified branch into the current branch.
+git checkout[branch_name]: Switches to a different branch.
+git log: Displays a log of commits.
+git diff: Shows the differences between the working directory and last commit.
+git reset [file]: Unstages changes for the specified file.
+git remove- v: Shows a lit of remote repositories and their URLs.
+git stash: Temporarily saves changes that are not ready to be committed, allowing you to switch branches or perform other tasks.
